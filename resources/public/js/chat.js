@@ -21,7 +21,7 @@
 
     $("#message").submit(function(e) {
       e.preventDefault();
-      
+
       $.post("/message", {nick: nick, msg: input.val()});
       input.val("");
     });

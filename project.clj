@@ -4,5 +4,5 @@
                [ring/ring-jetty-adapter "1.1.0"]
                [compojure "1.1.3"]
                [hiccup "1.0.1"]
-               [clj-json "0.5.2"]
+               [chesire "4.0.2"]
                [clj-eshq "0.0.1"]])
