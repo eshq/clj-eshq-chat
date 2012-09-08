@@ -1,1 +1,1 @@
-web: lein run -m chat.web
+web: lein trampoline run -m chat.web

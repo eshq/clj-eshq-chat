@@ -1,5 +1,8 @@
 (defproject eshq-chat "0.0.1"
             :dependencies
-              [[org.clojure/clojure "1.2.1"]
-               [ring/ring-jetty-adapter "0.3.9"]
-               [compojure "1.1.3"]])
+              [[org.clojure/clojure "1.4.0"]
+               [ring/ring-jetty-adapter "1.1.0"]
+               [compojure "1.1.3"]
+               [hiccup "1.0.1"]
+               [clj-json "0.5.2"]
+               [clj-eshq "0.0.1"]])
