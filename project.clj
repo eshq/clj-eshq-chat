@@ -5,4 +5,4 @@
                [compojure "1.1.3"]
                [hiccup "1.0.1"]
                [chesire "4.0.2"]
-               [clj-eshq "0.0.1"]])
+               [clj-eshq "0.0.2"]])
